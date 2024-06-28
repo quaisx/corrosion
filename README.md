@@ -5,3 +5,6 @@ A collection of solutions in Rust
 
 ## fibonacci
 A Fibonacci sequence generator
+
+## vector
+A collection of useful Vector operations
