@@ -1,6 +1,8 @@
 mod fibonacci;
+mod vector;
 
 pub use fibonacci::fibonacci;
+pub use vector::vector_join;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right
